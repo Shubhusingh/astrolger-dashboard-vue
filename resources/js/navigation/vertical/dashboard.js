@@ -2,7 +2,7 @@ export default [
   {
     title: 'Dashboards',
     icon: { icon: 'tabler-smart-home' },
-    to: 'dashboards-ecommerce',
+    to: 'dashboards-crm',
     
     badgeClass: 'bg-global-primary',
   },
